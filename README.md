@@ -4,7 +4,7 @@ Welcome to the Netflix Clone Landing Page repository! This project is a recreati
 
 ## Screenshots
 
-![Screenshot 1]("D:\OneDrive\Pictures\Screenshots\Screenshot 2024-04-22 162027.png")
+![Screenshot 1](screenshots/Screenshot.png)
 
 
 ## Description
