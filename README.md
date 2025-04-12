@@ -32,4 +32,4 @@ This project aims to replicate the user interface and design of the Netflix land
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Please follow the existing coding style and conventions, and provide a clear description of the changes you've made.
 
 ## Live Project 
-Too see [Click Here](https://saurabh-helwade.github.io/Netflix-Clone-Webpage/)
+Too see [Click Here](https://saurabh-helwade.github.io/Landing-page/)
